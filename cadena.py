@@ -1,0 +1,1 @@
+print("Las cadenas o estring enb python sedelim8itan conb comllas dobles o simples ")
